@@ -1,4 +1,3 @@
-# github.io
 <!DOCTYPE html>
 <html>
 <header>Спасибо ,что посетили мою страничку. <a href="t.me/sashylik_siiii">Больше о моей жизни тут:</a></header>
